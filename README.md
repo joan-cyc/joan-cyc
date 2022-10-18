@@ -14,8 +14,10 @@
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="r" alt="r" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="45" height="45"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" title="Google big query"  alt="Google big query" width="40" height="40"/>&nbsp;
 <img src="https://github.com/FranciscoGalan/FranciscoGalan/blob/main/Images/tableau-software.svg" title="Tableau"  alt="Tableau" width="40" height="40"/>&nbsp;
 <img src="https://github.com/FranciscoGalan/FranciscoGalan/blob/main/Images/Google_Sheets_Logo.svg" title="Sheets"  alt="Sheets" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/spss/spss-original.svg" title="spss"  alt="spss" width="40" height="40"/>&nbsp;
 </div>
 
 
